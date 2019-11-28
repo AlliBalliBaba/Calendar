@@ -1,0 +1,58 @@
+.AppointmentsTable {
+    width:390px;
+    text-align: left;
+    display: table;
+    table-layout: auto;
+    margin-top: 17px;
+    font-size: 18px;
+    background-color: transparent;
+}
+
+.Appointment {
+    word-wrap: break-word;
+    background-color: white;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.Redbtn {
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    background-color: rgb(197, 0, 0);
+    float: right;
+    color: white;
+    border: none;
+    cursor:pointer;
+}
+
+.Redbtn:hover {
+    background-color: rgb(255, 153, 153);
+}
+
+
+.DelButton{
+    background-color: rgb(224, 224, 224);
+}
+
+.Time {
+    padding: 5px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.text{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Info {
+    padding: 5px;
+    width: 100%;
+    overflow-x: initial;
+    word-wrap: break-word;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}

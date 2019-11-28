@@ -1,0 +1,374 @@
+{
+"buildings":[
+    {
+        "name":"Tower of Pisa",
+        "h": 56,
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/6/66/The_Leaning_Tower_of_Pisa_SB.jpeg"
+    },
+    {
+        "name":"Eiffel Tower",
+        "h": 324,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg"
+    },
+    {
+        "name":"Pyramid of Cheops",
+        "h": 139,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg"
+    },
+    {
+        "name":"St. Peter's Basilica (Rome)",
+        "h": 137,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/1/15/Petersdom_von_Engelsburg_gesehen.jpg"
+    },
+    {
+        "name":"Tallest Sequoia Tree",
+        "h": 116,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Grizzly_Giant_Mariposa_Grove.jpg"
+    },
+    {
+        "name":"One World Trade Center (New York)",
+        "h": 541,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/0/00/One_World_Trade_Center_cropped2.jpg"
+    },
+    {
+        "name":"Empire State Building (New York)",
+        "h": 443,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Empire_State_Building_from_the_Top_of_the_Rock.jpg"
+    },
+    {
+        "name":"Burj Khalifa (Dubai)",
+        "h": 828,
+        "pic":"https://upload.wikimedia.org/wikipedia/en/9/93/Burj_Khalifa.jpg"
+    },
+    {
+        "name":"Shanghai Tower",
+        "h": 632,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/8/89/Shanghai_tower_dec_26%2C_2014.jpg"
+    },
+    {
+        "name":"Abraj Al-Bait Clock Tower (Mecca)",
+        "h": 601,
+        "pic":"https://upload.wikimedia.org/wikipedia/en/f/f4/Abraj-al-Bait-Towers.JPG"
+    },
+    {
+        "name":"Big Ben Clock Tower (London)",
+        "h": 96,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/9/93/Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007.jpg"
+    },
+    {
+        "name":"Taj Mahal (Agra)",
+        "h": 73,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Agra%2C_Taj_Mahal_LCCN95505064.jpg"
+    },
+    {
+        "name":"Colosseum (Rome)",
+        "h": 48,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg"
+    },
+    {
+        "name":"Hagia Sophia (Istanbul)",
+        "h": 56,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/2/22/Hagia_Sophia_Mars_2013.jpg"
+    },
+    {
+        "name":"Space Needle (Seattle)",
+        "h": 184,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/4/4f/SpaceNeedleQAClose.jpg"
+    },
+    {
+        "name":"Sydney Opera House",
+        "h": 65,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Sydney_Opera_House_01.jpg"
+    },
+    {
+        "name":"The White House (Washington D.C.)",
+        "h": 21,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/a/af/WhiteHouseSouthFacade.JPG"
+    },
+    {
+        "name":"Saint Basil's Cathedral (Moscow)",
+        "h": 65,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Moscow_05-2012_StBasilCathedral.jpg"
+    },
+    {
+        "name":"Sagrada Família (Barcelona)",
+        "h": 172,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Sagrada_Familia_01.jpg"
+    },
+    {
+        "name":"Notre Dame (Paris)",
+        "h": 91,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Cath%C3%A9drale_Notre-Dame_de_Paris%2C_20_March_2014.jpg"
+    },
+    {
+        "name":"Great Sphinx of Giza",
+        "h": 20,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Great_Sphinx_of_Giza_May_2015.JPG"
+    },
+    {
+        "name":"Taipei 101",
+        "h": 508,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Taipei_101_2009_amk-EditMylius.jpg"
+    },
+    {
+        "name":"Chateau Frontenac (Quebec)",
+        "h": 77,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Ch%C3%A2teau_Frontenac_02.jpg"
+    },
+    {
+        "name":"Angkor Wat (Cambodia)",
+        "h": 65,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Angkor_%28I%29.jpg"
+    },
+    {
+        "name":"Cologne Cathedral",
+        "h": 157,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/0/03/Cologne_cathedrale_vue_sud.jpg"
+    },
+    {
+        "name":"Potala Palace (Lhasa)",
+        "h": 117,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/c/cd/%E5%B8%83%E8%BE%BE%E6%8B%89%E5%AE%AB.jpg"
+    },
+    {
+        "name":"Buckingham Palace (London)",
+        "h": 24,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/7/72/Buckingham_Palace_from_gardens%2C_London%2C_UK_-_Diliff.jpg"
+    },
+    {
+        "name":"Neuschwanstein Castle (Germany)",
+        "h": 65,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Schloss_Neuschwanstein_2013.jpg"
+    },
+    {
+        "name":"Santuario de Las Lajas (Colombia)",
+        "h": 100,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/0/04/Santuario_de_Las_Lajas%2C_Ipiales%2C_Colombia%2C_2015-07-21%2C_DD_21-23_HDR-Edit.JPG"
+    }
+],
+"mountains":[
+    {
+        "name":"Mount Etna (Italy)",
+        "h": 3350,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/3/31/Etna_eruption_seen_from_the_International_Space_Station.jpg"
+    },
+    {
+        "name":"Mount Olympus (Greece)",
+        "h": 2918,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/1/17/Mytikas.jpg"
+    },
+    
+    {
+        "name":"Mount Fuji (Japan)",
+        "h": 3776,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Mount_Fuji_Japan_with_Snow%2C_Lakes_and_Surrounding_Mountains.jpg"
+    },
+    {
+        "name":"Mount Kilimanjaro (Tanzania)",
+        "h": 5895,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/9/91/Mount_Kilimanjaro.jpg"
+    },
+    {
+        "name":"Matterhorn (Switzerland)",
+        "h": 4478,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/c/cf/3818_-_Riffelberg_-_Matterhorn_viewed_from_Gornergratbahn.JPG"
+    },
+    {
+        "name":"K2 (Pakistan)",
+        "h": 8611,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/1/12/K2_2006b.jpg"
+    },
+    {
+        "name":"Mont Blanc (France)",
+        "h": 4810 ,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/b/b1/MontBlancFromENE.jpg"
+    },
+    {
+        "name":"Mount Vesuvius (Italy)",
+        "h": 1281,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/1/10/Vesuvius_from_Pompeii_%28hires_version_2_scaled%29.png"
+    },
+    {
+        "name":"Denali (Alaska)",
+        "h": 6190,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/9/91/Wonder_Lake_and_Denali.jpg"
+    },
+    {
+        "name":"Mount Cook (New Zealand)",
+        "h": 3724,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Aoraki_Mount_Cook.JPG"
+    },
+    {
+        "name":"Mauna Loa (Hawaii)",
+        "h": 4170,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Mauna_Loa_Volcano.jpg"
+    },
+    {
+        "name":"El Capitan (California)",
+        "h": 2307,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Yosemite_El_Capitan.jpg"
+    },
+    {
+        "name":"Großglockner (Austria)",
+        "h": 3798,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Gro%C3%9Fglockner_from_behind_the_glass_panorama_tower.JPG"
+    },
+    {
+        "name":"Popocatepetl (Mexico)",
+        "h": 5452,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/0/04/PopoAmeca2zoom.jpg"
+    },
+    {
+        "name":"Mount Whitney (Sierra Nevada)",
+        "h": 4421,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Mount_Whitney_2003-03-25.jpg"
+    },
+    {
+        "name":"Lhotse (Himalaya)",
+        "h": 8516,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/7/72/Lhotse-fromChukhungRi.jpg"
+    },
+    {
+        "name":"Olympus Mons (Mars)",
+        "h": 21287,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/0/00/Olympus_Mons_alt.jpg"
+    }
+],
+"micro":[
+    
+    {
+        "name":"Water Molecule",
+        "h": 3e-10,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/8/8a/2006-02-13_Drop_before_impact.jpg"
+    },
+    {
+        "name":"Atom",
+        "h": 1e-10,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/a/af/Bose_Einstein_condensate.png"
+    },
+    {
+        "name":"Length of the DNA in a human chromosome",
+        "h": 0.05,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/d/db/DNA_orbit_animated_static_thumb.png"
+    },
+    {
+        "name":"Titin (protein)",
+        "h": 1e-6,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/6/60/Myoglobin.png"
+    },
+    {
+        "name":"Red blood cells",
+        "h": 7e-6,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/1/13/Redbloodcells.jpg"
+    },
+    {
+        "name":"White fat cells",
+        "h": 1e-4,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/2/27/Yellow_adipose_tissue_in_paraffin_section_-_lipids_washed_out.jpg"
+    },
+    {
+        "name":"Herpes simplex virus",
+        "h": 2e-7,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/4/45/Herpes_simplex_virus_TEM_B82-0474_lores.jpg"
+    },
+    {
+        "name":"Monocytes (white blood cells)",
+        "h": 2e-5,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/8/84/Blausen_0649_Monocyte_%28crop%29.png"
+    },
+    {
+        "name":"E-Coli Bacteria",
+        "h": 2e-6,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/3/32/EscherichiaColi_NIAID.jpg"
+    },
+    {
+        "name":"Diameter of a Human Hair",
+        "h": 1e-4,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/2/2c/CSIRO_ScienceImage_8115_Human_hair_and_Merino_wool_fibre.jpg"
+    },
+    {
+        "name":"Water Bears",
+        "h": 5e-4,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/c/cd/SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png"
+    },
+    {
+        "name":"Planck length",
+        "h": 1.616e-35,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/3/35/Atomic-orbital-clouds_spd_m0.png"
+    },
+    {
+        "name":"Thickness of a 1 Euro coin",
+        "h": 0.00233,
+        "pic":"https://upload.wikimedia.org/wikipedia/en/2/26/Common_face_of_one_euro_coin.jpg"
+    },
+    {
+        "name":"",
+        "h": 0,
+        "pic":""
+    }
+],
+"celestial":[
+    {
+        "name":"Diameter of Earth",
+        "h": 12700000,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg"
+    },
+    {
+        "name":"Diameter of Mercury",
+        "h": 4880000,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Mercury_in_color_-_Prockter07-edit1.jpg"
+    },
+    {
+        "name":"Diameter of Mars",
+        "h": 6780000,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/e/e4/Water_ice_clouds_hanging_above_Tharsis_PIA02653_black_background.jpg"
+    },
+    {
+        "name":"Diameter of Saturn",
+        "h": 116000000,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/e/e3/Saturn_from_Cassini_Orbiter_%282004-10-06%29.jpg"
+    },
+    {
+        "name":"Diameter of Venus",
+        "h": 12100000,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Venus-real_color.jpg"
+    },
+    {
+        "name":"Diameter of Neptune",
+        "h": 49200000,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/6/63/Neptune_-_Voyager_2_%2829347980845%29_flatten_crop.jpg"
+    },
+    {
+        "name":"Diameter of Jupiter",
+        "h": 140000000,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Jupiter_by_Cassini-Huygens.jpg"
+    },
+    {
+        "name":"Diameter of Uranus",
+        "h": 50700000,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Uranus2.jpg"
+    },
+    {
+        "name":"Diameter of Pluto",
+        "h": 2374000,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Global_LORRI_mosaic_of_Pluto_in_true_colour.jpg"
+    },
+    {
+        "name":"Diameter of the Moon",
+        "h": 1737000,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg"
+    },
+    {
+        "name":"The distance between the Earth and the Moon",
+        "h": 384000000,
+        "pic":"https://upload.wikimedia.org/wikipedia/commons/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg"
+    }
+
+
+
+]
+
+
+
+
+}
