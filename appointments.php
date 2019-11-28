@@ -11,11 +11,10 @@ $inputJSON = file_get_contents('php://input');
 $arr = json_decode($inputJSON, TRUE); 
 
 //check if person is logged in
-if(empty($_SESSION["userId"]) || $_SERVER['REQUEST_METHOD'] === 'POST'){
-    //die("unathourized access");
+if(empty($_SESSION["userId"]) || $_SERVER['REQUEST_METHOD'] !== 'POST'){
+    die("unathourized access");
 }
-//$currentId = $_SESSION["userId"];
-$currentId=9;
+$currentId = $_SESSION["userId"];
 
 if (array_key_exists("content", $arr) && array_key_exists("time", $arr)) {
     $appHandler->addAppointment($currentId, $arr["content"], $arr["time"]);
