@@ -3,8 +3,8 @@
 class Dbh{
 
     const SERVERNAME="localhost";
-    const USERNAME = "calendarviewer";
-    const PASSWORD = "superduperdumbo";
+    const USERNAME = "yourusername";
+    const PASSWORD = "yourpassword";
     const DBNAME = "onlinecalendar";
 
     protected function connect()
